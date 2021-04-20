@@ -13,7 +13,7 @@
 		<org.springsecurity-version>4.0.1.RELEASE</org.springsecurity-version>
 		<org.springtest-version>4.2.4.RELEASE</org.springtest-version>
 		<org.springsecuritytest-version>4.0.0.RELEASE</org.springsecuritytest-version>
-		<org.hibernate-version>5.3.2.Final</org.hibernate-version>
+		<org.hibernate-version>5.4.30.Final</org.hibernate-version>
 		<org.hibernatevalidator-version>5.4.1.Final</org.hibernatevalidator-version>
 		<bean.validation>2.0.1.Final</bean.validation>
 		<mysql.connector.version>5.1.28</mysql.connector.version>
