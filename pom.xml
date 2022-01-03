@@ -9,10 +9,10 @@
 	<version>1.0.0</version>
 	<properties>
 		<java-version>1.8</java-version>
-		<org.springframework-version>4.3.7.RELEASE</org.springframework-version>
+		<org.springframework-version>5.2.18.RELEASE</org.springframework-version>
 		<org.springsecurity-version>4.0.1.RELEASE</org.springsecurity-version>
-		<org.springtest-version>4.2.4.RELEASE</org.springtest-version>
-		<org.springsecuritytest-version>4.0.0.RELEASE</org.springsecuritytest-version>
+		<org.springtest-version>5.2.18.RELEASE</org.springtest-version>
+		<org.springsecuritytest-version>4.0.1.RELEASE</org.springsecuritytest-version>
 		<org.hibernate-version>5.3.2.Final</org.hibernate-version>
 		<org.hibernatevalidator-version>5.4.1.Final</org.hibernatevalidator-version>
 		<bean.validation>2.0.1.Final</bean.validation>
