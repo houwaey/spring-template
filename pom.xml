@@ -17,7 +17,7 @@
 		<org.hibernatevalidator-version>5.4.1.Final</org.hibernatevalidator-version>
 		<bean.validation>2.0.1.Final</bean.validation>
 		<mysql.connector.version>5.1.28</mysql.connector.version>
-		<h2.version>1.4.195</h2.version>
+		<h2.version>1.4.198</h2.version>
 		<junit.version>4.12</junit.version>
 		<hamcrest.version>1.3</hamcrest.version>
 		<org.mockito-version>2.22.0</org.mockito-version>
